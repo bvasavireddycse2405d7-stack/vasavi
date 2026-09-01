@@ -1,5 +1,5 @@
 # BUILD WITH ME EVERYONE
-#HELLO 
+#HELLO EVERYONE
 # 👋 Hi, I'm Vasavi Reddy!
 
 - 💻 CSE Student at MGIT
